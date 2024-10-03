@@ -1,4 +1,4 @@
-# GitHub Finder
+## GitHub Finder
 
 Developed with AJAX and jQuery, fused with Bootstrap for styling, this application helps to view the github user profile in brief.
 
